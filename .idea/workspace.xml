@@ -2,17 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f8e4d32-b367-4ff3-ac61-91ce787ab376" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/faces.train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/riddhi/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/riddhi/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/riddhi/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/riddhi/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/riddhi/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/riddhi/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myimg.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainner.yml.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faces.py" beforeDir="false" afterPath="$PROJECT_DIR$/faces.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_eye.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_frontalface_alt2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/haarcascade_frontalface_default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/lena.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faces.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faces.train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/emilia/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/emilia/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/emilia/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/emilia/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/emilia/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/emilia/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jhon/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jhon/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jhon/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jhon/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jhon/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/riddhi/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/riddhi/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/riddhi/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/riddhi/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/riddhi/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/riddhi/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myimg.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainner.yml.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +54,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="G:/python/Face-Recognition-Based-Attendance-System-master/Face-Recognition-Based-Attendance-System-master2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/haarcascade_frontalface_default.xml" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/images" />
   </component>
@@ -50,7 +67,7 @@
       <recent name="C:\Users\Riddhi Singh\PycharmProjects\Facial-Recognition-Attendance-System\Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.faces">
+  <component name="RunManager" selected="Python.train">
     <configuration name="face3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Facial-Recognition-Attendance-System" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,10 +154,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.train" />
         <item itemvalue="Python.faces" />
         <item itemvalue="Python.faces.train" />
         <item itemvalue="Python.face3" />
-        <item itemvalue="Python.train" />
       </list>
     </recent_temporary>
   </component>
@@ -162,33 +179,37 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1132" y="407" width="665" height="533" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586667784305" />
-    <state x="1136" y="259" key="FileChooserDialogImpl" timestamp="1586671507068">
+    <state x="1136" y="259" key="FileChooserDialogImpl" timestamp="1586696915840">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1136" y="259" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586671507068" />
-    <state width="1899" height="103" key="GridCell.Tab.0.bottom" timestamp="1586696563898">
+    <state x="1136" y="259" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586696915840" />
+    <state width="1899" height="333" key="GridCell.Tab.0.bottom" timestamp="1586703062239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="103" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586696563898" />
-    <state width="1899" height="103" key="GridCell.Tab.0.center" timestamp="1586696563898">
+    <state width="1899" height="333" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586703062239" />
+    <state width="1899" height="333" key="GridCell.Tab.0.center" timestamp="1586703062239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="103" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586696563898" />
-    <state width="1899" height="103" key="GridCell.Tab.0.left" timestamp="1586696563898">
+    <state width="1899" height="333" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586703062239" />
+    <state width="1899" height="333" key="GridCell.Tab.0.left" timestamp="1586703062238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="103" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586696563898" />
-    <state width="1899" height="103" key="GridCell.Tab.0.right" timestamp="1586696563898">
+    <state width="1899" height="333" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586703062238" />
+    <state width="1899" height="333" key="GridCell.Tab.0.right" timestamp="1586703062239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="103" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586696563898" />
-    <state x="545" y="305" key="SettingsEditor" timestamp="1586671028207">
+    <state width="1899" height="333" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586703062239" />
+    <state x="545" y="305" key="SettingsEditor" timestamp="1586699488158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="545" y="305" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586671028207" />
-    <state x="668" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1586687340041">
+    <state x="545" y="305" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586699488158" />
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1586709685014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586687340041" />
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586709685014" />
+    <state x="552" y="182" key="scopes" timestamp="1586699453170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="182" key="scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1586699453170" />
   </component>
 </project>
